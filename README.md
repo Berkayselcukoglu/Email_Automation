@@ -1,26 +1,28 @@
-# MAİL ASİSTANI
+# Mail Assistant
 Mail Assistant - SMTP & IMAP
 
 Mail Assistant, SMTP & IMAP protokollerini kullanarak gelen e-postaları otomatik olarak analiz eden ve kategorilere ayıran yapay zeka destekli bir e-posta yönetim sistemidir.
 
-🎯 Özellikler
+     Özellikler
 
-Otomatik E-posta Analizi: Gelen e-postalar LLM (Large Language Model) ile analiz edilir
+Otomatik E-posta Analizi: Gelen e-postalar LLM ile analiz edilir
 Akıllı Kategorilendirme: E-postalar içeriklerine göre otomatik kategorilere ayrılır
 Departman Bazlı Yönlendirme: E-postalar ilgili departmanlara otomatik yönlendirilir
 İstatistiksel Raporlama: Haftalık e-posta istatistikleri ve analiz raporları
 Performans İzleme: Departman performanslarının takibi
 
-Teknoloji Stack
+    Teknoloji Stack
 
-Backend /
-Python - Ana backend dili
-SMTP & IMAP - E-posta protokolleri
-Microsoft SQL Server - Veritabanı yönetimi
-LLM Integration - Yapay zeka entegrasyonu
+Backend
 
-Frontend /
-JavaScript - Frontend geliştirme
+Python - Ana backend dili  
+SMTP & IMAP - E-posta protokolleri  
+Microsoft SQL Server - Veritabanı yönetimi  
+LLM Integration - Yapay zeka entegrasyonu  
+
+Frontend
+
+JavaScript - Frontend geliştirme  
 HTML/CSS - Kullanıcı arayüzü
 
 
