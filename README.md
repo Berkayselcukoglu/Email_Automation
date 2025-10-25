@@ -1,7 +1,7 @@
-# Mail Assistant
+# Email Automation with Python
 ## SMTP & IMAP
 
-Mail Assistant is an AI-powered email management system that automatically analyzes incoming emails using SMTP & IMAP protocols and categorizes them accordingly.
+Email Automation is an AI-powered email management system that automatically analyzes incoming emails using SMTP & IMAP protocols and categorizes them accordingly.
 
 ## Features
 
@@ -17,7 +17,7 @@ Mail Assistant is an AI-powered email management system that automatically analy
 - Python - Primary backend language
 - SMTP & IMAP - Email protocols
 - Microsoft SQL Server - Database management
-- LLM Integration - Artificial intelligence integration
+- LLM Integration - Artificial intelligence integration - GroqCloud.com
 
 ### Frontend
 - JavaScript - Frontend development
