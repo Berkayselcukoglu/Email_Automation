@@ -1,31 +1,32 @@
 # Mail Assistant
-Mail Assistant - SMTP & IMAP
+## SMTP & IMAP
 
-Mail Assistant, SMTP & IMAP protokollerini kullanarak gelen e-postaları otomatik olarak analiz eden ve kategorilere ayıran yapay zeka destekli bir e-posta yönetim sistemidir.
+Mail Assistant is an AI-powered email management system that automatically analyzes incoming emails using SMTP & IMAP protocols and categorizes them accordingly.
 
-     Özellikler
+## Features
 
-Otomatik E-posta Analizi: Gelen e-postalar LLM ile analiz edilir
-Akıllı Kategorilendirme: E-postalar içeriklerine göre otomatik kategorilere ayrılır
-Departman Bazlı Yönlendirme: E-postalar ilgili departmanlara otomatik yönlendirilir
-İstatistiksel Raporlama: Haftalık e-posta istatistikleri ve analiz raporları
-Performans İzleme: Departman performanslarının takibi
+- **Automatic Email Analysis:** Incoming emails are analyzed using LLM technology
+- **Intelligent Categorization:** Emails are automatically categorized based on their content
+- **Department-Based Routing:** Emails are automatically forwarded to relevant departments
+- **Statistical Reporting:** Weekly email statistics and analysis reports
+- **Performance Monitoring:** Tracking of department performance
 
-    Teknoloji Stack
+## Technology Stack
 
-Backend
+### Backend
+- Python - Primary backend language
+- SMTP & IMAP - Email protocols
+- Microsoft SQL Server - Database management
+- LLM Integration - Artificial intelligence integration
 
-Python - Ana backend dili  
-SMTP & IMAP - E-posta protokolleri  
-Microsoft SQL Server - Veritabanı yönetimi  
-LLM Integration - Yapay zeka entegrasyonu  
+### Frontend
+- JavaScript - Frontend development
+- HTML/CSS - User interface
 
-Frontend
+## Screenshots
 
-JavaScript - Frontend geliştirme  
-HTML/CSS - Kullanıcı arayüzü
+![Mail Assistant Interface 1](https://github.com/user-attachments/assets/42816453-f808-449c-a1cf-392155671cc8)
 
+![Mail Assistant Interface 2](https://github.com/user-attachments/assets/061102e5-93a5-46da-8a67-89e00b8dc7af)
 
-<img width="1887" height="890" alt="mail_asistanı_1" src="https://github.com/user-attachments/assets/42816453-f808-449c-a1cf-392155671cc8" />
-<img width="1891" height="892" alt="mail_asistanı_2" src="https://github.com/user-attachments/assets/061102e5-93a5-46da-8a67-89e00b8dc7af" />
-<img width="1891" height="888" alt="mail_asistanı_3" src="https://github.com/user-attachments/assets/c91b1377-2ea7-409b-b7c0-fa24e801bd15" />
+![Mail Assistant Interface 3](https://github.com/user-attachments/assets/c91b1377-2ea7-409b-b7c0-fa24e801bd15)
